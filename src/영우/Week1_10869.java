@@ -1,5 +1,7 @@
+package 영우;
+
 import java.util.*;
-public class Main {
+public class Week1_10869 {
     void cal(int A, int B) {
         System.out.println(A+B);
         System.out.println(A-B);
@@ -9,7 +11,7 @@ public class Main {
     }
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        Main main = new Main();
+        Week1_10869 main = new Week1_10869();
         int A = scan.nextInt();
         int B = scan.nextInt();
         main.cal(A,B);

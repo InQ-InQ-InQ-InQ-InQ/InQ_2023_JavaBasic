@@ -1,5 +1,7 @@
+package 성현;
+
 import java.util.Scanner;
-public class Main {
+public class Week1_10869 {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         int A=s.nextInt();

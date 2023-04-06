@@ -1,6 +1,8 @@
+package 정민;
+
 import java.util.Scanner;
 
-public class Week01 {
+public class Week1_10869 {
 
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);

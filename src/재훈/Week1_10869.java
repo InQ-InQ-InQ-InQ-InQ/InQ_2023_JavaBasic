@@ -1,3 +1,5 @@
+package 재훈;
+
 import java.util.Scanner;
 
 public class Week1_10869 {
