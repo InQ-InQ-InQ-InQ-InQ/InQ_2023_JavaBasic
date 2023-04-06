@@ -22,7 +22,7 @@
 
 - 커밋 컨벤션 : `git commit -m "[1주차] 김인큐 과제 제출"`
 
-- PR 컨벤션 : `[1주차] 김인큐 과제 제출"`
+- PR 컨벤션 : `"[1주차] 김인큐 과제 제출"`
 
 - 파일 이름 컨벤션 : `Week1_9876.java`
 
@@ -69,7 +69,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 1</b>
   <br>
-  3/27 ~ 4/1
+  3/27 ~ 4/5
     </td>
     <td colspan = "10" align="center">
   1.1 자바란? ~ 1.5 주석문 - 실습 <br>
@@ -97,7 +97,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 2</b>
   <br>
-  4/3 ~ 4/9
+  4/6 ~ 4/12
     </td>
     <td colspan = "10" align="center">
   3.1 if문 ~ 3.17 for문 - 실습
@@ -132,7 +132,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 3</b>
   <br>
-  4/24 ~ 4/30
+  4/27 ~ 5/3
     </td>
     <td colspan = "10" align="center">
   4.1 배열 만들기 ~ 4.9 for each - 실습
@@ -159,7 +159,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
   <br>
-  5/1 ~ 5/7
+  5/4 ~ 5/10
     </td>
     <td colspan = "10" align="center">
   5.1 클래스 선언 ~ 5.14 메소드 사용해보기 - 실습(2)
@@ -186,7 +186,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 5</b>
   <br>
-  5/8 ~ 5/14
+  5/11 ~ 5/17
     </td>
     <td colspan = "10" align="center">
     5.15 메소드란? ~ 5.20 열거형
@@ -215,7 +215,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 6</b>
   <br>
-  5/15 ~ 5/21
+  5/18 ~ 5/24
     </td>
     <td colspan = "10" align="center">
     7.1 생성자 ~ 7.15 클래스 형변환 - 실습(2)
@@ -242,7 +242,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 7</b>
   <br>
-  5/22 ~ 5/28
+  5/25 ~ 5/31
     </td>
     <td colspan = "10" align="center">
   8.1 인터페이스 만들기 ~ 8.8 익명클래스
@@ -271,7 +271,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
   <br>
-  5/29 ~
+  6/1 ~
     </td>
     <td colspan = "10" align="center">
   추후 공지
