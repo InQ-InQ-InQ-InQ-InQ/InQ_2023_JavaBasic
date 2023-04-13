@@ -5,8 +5,9 @@
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
+
+InQ_2023_JavaBasic.iml
 dataSources.local.xml
 .idea
-InQ_2023_JavaBasic.iml
 out
 
