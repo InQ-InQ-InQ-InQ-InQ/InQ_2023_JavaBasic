@@ -82,14 +82,14 @@
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-    <td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>
+    <td align="center">💗 영우</td>
   </tr>
   <tr>
   <td colspan=12></td>
@@ -109,14 +109,14 @@
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>  
-    <td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>  
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
