@@ -26,7 +26,7 @@ public class Week4_10818 {
                 tmp=arr[i];
             }
         }
-        bw.write(String.valueOf(tmp2)+" ");
+        bw.write(String.valueOf(tmp2)+"  ");
         bw.write(String.valueOf(tmp));
         bw.flush();
     }
