@@ -196,7 +196,7 @@
   </tr>
    <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2720"/>세탁소 사장 동혁</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
