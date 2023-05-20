@@ -252,7 +252,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_JavaBasic/blob/main/src/%EC%9E%AC%EC%9A%B0/Week7_%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%97%B0%EC%8A%B5_1.md"/>은찬이의 보물찾기</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
