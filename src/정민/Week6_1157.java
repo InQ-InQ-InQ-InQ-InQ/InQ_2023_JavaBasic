@@ -7,10 +7,10 @@ public class Week06_1157 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        int [] arr = new int[26]
+        int [] arr = new int[26];
+        String str = br.readLine();
 
-;
-        String str = br.readLine();        for(int i =0; i < str.length(); i++) {
+        for(int i =0; i < str.length(); i++) {
             char a = str.charAt(i);
 
             if (a >= 'a' && a <= 'z') {
