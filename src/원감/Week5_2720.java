@@ -16,7 +16,6 @@ public class Week5_2720 {
 
         while (tc -->  0) { // variable--; variable > 0; 를 합쳐놓은 형태
             int money = Integer.parseInt(br.readLine());
-
             int q = money/25;
             money = money%25;
             int d = money/10;
