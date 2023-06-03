@@ -109,14 +109,14 @@
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>  
-    <td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>  
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
@@ -144,14 +144,14 @@
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-    <td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
@@ -171,14 +171,14 @@
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-  <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-<td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
@@ -189,25 +189,25 @@
   5/11 ~ 5/17
     </td>
     <td colspan = "10" align="center">
-    5.15 메소드란? ~ 5.20 열거형
+    5.15 String 클래스와 메소드 ~ 5.20 열거형
     <br>
     6.1 생성자 ~ 6.9 패키지
   </td>
   </tr>
    <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2720"/>세탁소 사장 동혁</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-  <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-<td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
@@ -223,18 +223,18 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/1157"/>단어 공부</td>
 </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-<td align="center">🤍 영우</td>
+    <td align="center">💗 성현</td>
+    <td align="center">💗 나현</td>
+    <td align="center">💗 재훈</td>
+    <td align="center">💗 규선</td>
+    <td align="center">💗 정민</td>
+    <td align="center">💗 현서</td>
+    <td align="center">💗 원감</td>
+    <td align="center">💗 영우</td>
   </tr>
     <tr>
   <td colspan=12></td>
@@ -252,7 +252,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_JavaBasic/blob/main/src/%EC%9E%AC%EC%9A%B0/Week7_%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%97%B0%EC%8A%B5_1.md"/>은찬이의 보물찾기</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
